@@ -10,33 +10,33 @@
 </head>
 
 <body>
-  <div id="app">
-    <a href="" @click.prevent="flag=true">登录</a>
-    <a href="" @click.prevent="flag=false">注册</a>
+<div id="app">
+  <a href="" @click.prevent="flag=true">登录</a>
+  <a href="" @click.prevent="flag=false">注册</a>
 
-    <login v-if="flag"></login>
-    <register v-else="flag"></register>
+  <login v-if="flag"></login>
+  <register v-else="flag"></register>
 
-  </div>
+</div>
 
-  <script>
-    Vue.component('login', {
-      template: '<h3>登录组件</h3>'
-    })
+<script>
+  Vue.component('login', {
+    template: '<h3>登录组件</h3>'
+  })
 
-    Vue.component('register', {
-      template: '<h3>注册组件</h3>'
-    })
+  Vue.component('register', {
+    template: '<h3>注册组件</h3>'
+  })
 
-    // 创建 Vue 实例，得到 ViewModel
-    var vm = new Vue({
-      el: '#app',
-      data: {
-        flag: false
-      },
-      methods: {}
-    });
-  </script>
+  // 创建 Vue 实例，得到 ViewModel
+  var vm = new Vue({
+    el: '#app',
+    data: {
+      flag: false
+    },
+    methods: {}
+  });
+</script>
 </body>
 
 </html>
