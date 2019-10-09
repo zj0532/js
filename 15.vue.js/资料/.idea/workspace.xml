@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="18bfa9fc-53e4-45ee-85a9-df46d16bd2b6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day3/代码/code/13.组件切换-方式1.html" beforeDir="false" afterPath="$PROJECT_DIR$/day3/代码/code/13.组件切换-方式1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/代码/code/11.路由-命名视图实现经典布局.html" beforeDir="false" afterPath="$PROJECT_DIR$/day4/代码/code/11.路由-命名视图实现经典布局.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,46 +19,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day3/代码/code/13.组件切换-方式1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="818">
-              <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day3/代码/code/14.组件切换-方式2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="14" column="53" selection-end-line="46" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day3/代码/code/15.组件切换-切换动画.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" selection-end-line="56" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day4/代码/code/01.复习-实现小球动画.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="24" column="33" lean-forward="true" selection-end-line="65" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day4/代码/code/02.复习-定义组件的方式.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="10" lean-forward="true" selection-end-line="45" selection-end-column="7" />
+              <caret line="10" selection-end-line="45" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -67,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/day4/代码/code/03.组件-父组件向子组件传值.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="10" lean-forward="true" selection-end-line="54" selection-end-column="7" />
+              <caret line="10" selection-end-line="54" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -76,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/day4/代码/code/04.组件-父组件把方法传递给子组件.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="7" column="25" lean-forward="true" selection-end-line="67" selection-end-column="7" />
+              <caret line="7" column="25" selection-end-line="67" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -85,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/day4/代码/code/05.组件案例-评论列表.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
-              <caret line="12" column="6" lean-forward="true" selection-end-line="116" selection-end-column="7" />
+              <caret line="12" column="6" selection-end-line="116" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -94,16 +58,52 @@
         <entry file="file://$PROJECT_DIR$/day4/代码/code/06.ref获取DOM元素和组件.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="297">
-              <caret line="11" column="6" lean-forward="true" selection-end-line="60" selection-end-column="7" />
+              <caret line="11" column="6" selection-end-line="60" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day4/代码/code/07.路由-路由的基本使用.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1269">
+              <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day4/代码/code/08.路由规则中定义参数.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="28" column="16" lean-forward="true" selection-end-line="60" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day4/代码/code/09.路由规则传参方式2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="12" column="6" lean-forward="true" selection-end-line="59" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day4/代码/code/10.路由-路由的嵌套.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="33" selection-end-line="73" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day4/代码/code/07.路由-路由的基本使用.html">
+        <entry file="file://$PROJECT_DIR$/day4/代码/code/11.路由-命名视图实现经典布局.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
-              <caret line="12" column="24" lean-forward="true" selection-end-line="96" selection-end-column="7" />
+              <caret line="12" column="10" lean-forward="true" selection-end-line="98" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -119,6 +119,8 @@
         <option value="$PROJECT_DIR$/day3/代码/code/13.组件切换-方式1.html" />
         <option value="$PROJECT_DIR$/day3/代码/code/14.组件切换-方式2.html" />
         <option value="$PROJECT_DIR$/day4/代码/code/01.复习-实现小球动画.html" />
+        <option value="$PROJECT_DIR$/day4/代码/code/10.路由-路由的嵌套.html" />
+        <option value="$PROJECT_DIR$/day4/代码/code/11.路由-命名视图实现经典布局.html" />
       </list>
     </option>
   </component>
@@ -144,7 +146,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,6 +175,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -206,18 +208,19 @@
       <option name="presentableId" value="Default" />
       <updated>1569722183307</updated>
       <workItem from="1569722184657" duration="6679000" />
-      <workItem from="1570504892416" duration="6824000" />
+      <workItem from="1570504892416" duration="7556000" />
+      <workItem from="1570586760506" duration="3546000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13503000" />
+    <option name="totallyTimeSpent" value="17781000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-200" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -342,7 +345,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day3/代码/code/13.组件切换-方式1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="818">
+        <state relative-caret-position="1107">
           <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
         </state>
       </provider>
@@ -363,50 +366,78 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day4/代码/code/01.复习-实现小球动画.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="24" column="33" lean-forward="true" selection-end-line="65" selection-end-column="7" />
+        <state relative-caret-position="648">
+          <caret line="24" column="33" selection-end-line="65" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day4/代码/code/02.复习-定义组件的方式.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="10" lean-forward="true" selection-end-line="45" selection-end-column="7" />
+          <caret line="10" selection-end-line="45" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day4/代码/code/03.组件-父组件向子组件传值.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="10" lean-forward="true" selection-end-line="54" selection-end-column="7" />
+          <caret line="10" selection-end-line="54" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day4/代码/code/04.组件-父组件把方法传递给子组件.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="7" column="25" lean-forward="true" selection-end-line="67" selection-end-column="7" />
+          <caret line="7" column="25" selection-end-line="67" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day4/代码/code/05.组件案例-评论列表.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="12" column="6" lean-forward="true" selection-end-line="116" selection-end-column="7" />
+          <caret line="12" column="6" selection-end-line="116" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day4/代码/code/06.ref获取DOM元素和组件.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="11" column="6" lean-forward="true" selection-end-line="60" selection-end-column="7" />
+          <caret line="11" column="6" selection-end-line="60" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day4/代码/code/07.路由-路由的基本使用.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1269">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/代码/code/08.路由规则中定义参数.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="28" column="16" lean-forward="true" selection-end-line="60" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/代码/code/09.路由规则传参方式2.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="12" column="24" lean-forward="true" selection-end-line="96" selection-end-column="7" />
+          <caret line="12" column="6" lean-forward="true" selection-end-line="59" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/代码/code/10.路由-路由的嵌套.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="33" selection-end-line="73" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/代码/code/11.路由-命名视图实现经典布局.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="10" lean-forward="true" selection-end-line="98" selection-end-column="7" />
         </state>
       </provider>
     </entry>
